@@ -17,6 +17,6 @@ export type TabParamList = {
 export type RootStackParamList = {
   Login: undefined;
   Register: undefined;
-  MainTabs: undefined; 
+  MainTabs: undefined;
   MovementForm: undefined;
 };
